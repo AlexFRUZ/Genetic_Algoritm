@@ -1,6 +1,8 @@
 Hello Friend! This file will contain a detailed description of the program. 
 
-This Python code implements a genetic algorithm to optimize the layout of a golf course graph. Here's an explanation of the code:
+
+This Python code implements a genetic algorithm to optimize the layout of a golf course graph. Here's an explanation of the code:    
+
     1.Import Statements. The code begins with importing necessary modules and libraries, including PyQt5 for the graphical user interface (GUI), networkx for graph operations, matplotlib for plotting graphs, and other standard libraries for mathematical computations.
     
     2.Constants. Several constants are defined at the beginning of the script, including population_size, generations, mutation_rate, and elite_size.
